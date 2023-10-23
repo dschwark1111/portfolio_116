@@ -20,7 +20,7 @@ nav{
     display: block;
     width: 30px;
     height: 3px;
-    background-color: red;
+    background-color: var(--neutral-color);
     margin: 6px auto;
 }
 
