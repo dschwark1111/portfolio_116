@@ -2,12 +2,12 @@
 Styles we can reuse*/
 
 :root{
-    --primary-color: #639ba3;
+    --primary-color: #6e9aa1;
     --primary-color-100: #f1d8d4;
     --primary-color-300: #7ba1a7;
 
-    --secondary-color: #bbcdf3;
-    --secondary-color-600: #c58b58;
+    --secondary-color: #e3d4e1;
+        --secondary-color-600: #be87be;
     --secondary-color-900: #ddb761;
 
     --neutral-color: black;
@@ -25,7 +25,6 @@ Styles we can reuse*/
     align-items: center;
 }    
 }
-
 
 
 /*general style to apply to all elements*/
@@ -55,6 +54,7 @@ h2{
     font-weight: 400;
     letter-spacing: 0.06rem;
     font-size: 1.5rem;
+    text-decoration: none;
 }
 
 p{

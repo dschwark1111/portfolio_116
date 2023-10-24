@@ -40,3 +40,8 @@ text-transform: 1% 2%;
 .nav-link a:hover{
     border-bottom: solid 2px var(--primary-color);
 }
+
+#nav-check,
+.nav-btn {
+    display: none;
+}
