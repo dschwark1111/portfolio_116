@@ -2,19 +2,19 @@
 Styles we can reuse*/
 
 :root{
-    --primary-color: #6e9aa1;
+    --primary-color: #67949b;
     --primary-color-100: #f1d8d4;
     --primary-color-300: #7ba1a7;
 
     --secondary-color: #e3d4e1;
         --secondary-color-600: #be87be;
-    --secondary-color-900: #ddb761;
+    --secondary-color-900: #f7f4f7;
 
     --neutral-color: black;
 
     --backgroud-color: #e8ecf3;
 
-    --surface-color: #bec1c6;
+    --surface-color: #d3d3d4;
 
     --lobster-font: 'Lobster', sans-serif;
     --sans-font: 'DM Sans', sans-serif;

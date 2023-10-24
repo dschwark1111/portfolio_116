@@ -21,7 +21,8 @@
     margin: 4rem 0px;
 }
 
-.skills label {
+.skills label,
+.technologies label {
     cursor: initial;
     color: var(--primary-color);
     background-color: var(--secondary-color);
@@ -41,4 +42,55 @@
     padding: 2rem;
     gap: 2rem;
     flex-wrap: wrap;
+}
+.projects-section {
+    flex-direction: column;
+    padding: 2rem;
+    background-color: var(--secondary-color-900);
+}
+
+.project-card img {
+    width: 100%;
+    border-radius: 1%;
+}
+
+.project-card {
+    border-radius: 1%;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0.5rem;
+    width: 25rem;
+    border: 1px solid var(--secondary-color-900)
+}
+
+.project-card:hover {
+    opacity: 0.5;
+    border: 1px solid var(--secondary-color)
+}
+
+a p:nth-child(2) {
+    font-size: 1.5rem;
+    font-weight: bolder;
+    margin-bottom: 0.5rem;
+}
+
+a p:nth-child(3) {
+    font-style: italic;
+
+}
+
+a p:nth-child(4) {
+    font-style: italic;
+    font-weight: bolder;
+    letter-spacing: 0.2rem;
+    margin-bottom: 1rem;
+}
+
+.projects-lists {
+    margin-top: 2rem;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 100%;
+    gap: 4rem;
 }
