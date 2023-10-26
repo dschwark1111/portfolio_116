@@ -1,0 +1,27 @@
+[
+    {
+        "name" : "Brandon",
+        "desription": "This is the description",
+        "year" : 2023,
+        "img" : "../img/picture-1.jpg",
+        "repository" : "https://github.com/",
+        "technologies" : ["Tech1", "Tech2", "Tech3"]
+    },
+    {
+        "name" : "Shane",
+        "desription": "This is the description",
+        "year" : 2023,
+        "img" : "../img/picture-2.jpg",
+        "repository" : "https://github.com/",
+        "technologies" : ["Tech1", "Tech2", "Tech3", "Tech4"]
+    },
+    {
+        "name" : "Dorothy",
+        "desription": "This is the description",
+        "year" : 2023,
+        "img" : "../img/picture-3.jpg",
+        "repository" : "https://github.com/",
+        "technologies" : ["Tech1", "Tech2", "Tech3", "Tech4", "Tech5"]
+    }
+    
+]
