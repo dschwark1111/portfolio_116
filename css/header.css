@@ -7,9 +7,13 @@ header{
 
 .logo{
     width: 20%;
+    height: 100%;
 
 }
 
+.logo a {
+    text-decoration: none;
+}
 
 nav{
     width: 80%;

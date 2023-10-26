@@ -34,13 +34,12 @@
 
 .skills-list {
     flex-direction: column;
-
 }
 
 .skills {
     width: 70%;
     padding: 2rem;
-    gap: 2rem;
+    gap: 2rem 2rem;
     flex-wrap: wrap;
 }
 .projects-section {
@@ -99,6 +98,16 @@ a p:nth-child(4),
     gap: 4rem;
 }
 
+.project-card a {
+    text-decoration: none;
+}
+
+.technologies {
+    justify-content: flex-start;
+    gap: 0.5rem;
+    flex-wrap: wrap;
+    margin-top: 0.5rem;
+}
 .experience-section {
     flex-direction: column;
     margin: 4rem;

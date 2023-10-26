@@ -1,7 +1,7 @@
 [
     {
         "name" : "Brandon",
-        "desription": "This is the description",
+        "description": "This is the description",
         "year" : 2023,
         "img" : "../img/picture-1.jpg",
         "repository" : "https://github.com/",
@@ -9,7 +9,7 @@
     },
     {
         "name" : "Shane",
-        "desription": "This is the description",
+        "description": "This is the description",
         "year" : 2023,
         "img" : "../img/picture-2.jpg",
         "repository" : "https://github.com/",
@@ -17,7 +17,7 @@
     },
     {
         "name" : "Dorothy",
-        "desription": "This is the description",
+        "description": "This is the description",
         "year" : 2023,
         "img" : "../img/picture-3.jpg",
         "repository" : "https://github.com/",
