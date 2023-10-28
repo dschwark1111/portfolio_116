@@ -14,7 +14,7 @@ Styles we can reuse*/
 
     --backgroud-color: #e8ecf3;
 
-    --surface-color: #d3d3d4;
+    --surface-color: #99999b;
 
     --lobster-font: 'Lobster', sans-serif;
     --sans-font: 'DM Sans', sans-serif;
@@ -60,4 +60,9 @@ h2{
 p{
     color: var(--neurtral-color);
     font-size: 1.1rem;
+}
+
+.break {
+    position: absolute;
+    margin: -60;
 }
