@@ -3,11 +3,13 @@ header{
     height: 60px;
     position: sticky;
     top: 0px;
+    padding-bottom: 1rem;
 }
 
 .logo{
     width: 20%;
     height: 100%;
+    padding-top: 2rem;
 
 }
 

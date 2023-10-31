@@ -51,8 +51,9 @@ function createExperienceCards(json){
     for (let i = 0; i <experienceSize; i ++){
         experienceListElement.innerHTML +=`
         <div class="experience-card">
-        <p>${experience[i].entity}</p>
-        <p>${experience[i].title}</p>
+        <h3>${experience[i].entity}</h3>
+        <br>
+        <p style="font-style: italic;">${experience[i].title}</p>
         <p>${experience[i].description}</p>
         <p>${experience[i].period}</p>
         <div id="technology-skill-${i}" class="technologies center"> 

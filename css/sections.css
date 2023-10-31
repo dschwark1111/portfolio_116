@@ -47,6 +47,7 @@
     padding: 2rem;
     background-color: var(--secondary-color-900);
     text-decoration: none;
+    
 }
 
 .project-card img {
@@ -73,11 +74,13 @@ a p:nth-child(2),
     font-size: 1.5rem;
     font-weight: bolder;
     margin-bottom: 0.5rem;
+    color: black;
 }
 
 a p:nth-child(3),
 .experience.card p:nth-child(2) {
     font-style: italic;
+    color: black;
 
 }
 
@@ -87,6 +90,7 @@ a p:nth-child(4),
     font-weight: bolder;
     letter-spacing: 0.2rem;
     margin-bottom: 1rem;
+    color: black;
 }
 
 #projects-list {

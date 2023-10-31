@@ -3,18 +3,18 @@ Styles we can reuse*/
 
 :root{
     --primary-color: #67949b;
-    --primary-color-100: #f1d8d4;
+    --primary-color-100: #eab3ce;
     --primary-color-300: #7ba1a7;
 
     --secondary-color: #e3d4e1;
-        --secondary-color-600: #be87be;
+        --secondary-color-600: #eab3ce;
     --secondary-color-900: #f7f4f7;
 
     --neutral-color: black;
 
     --backgroud-color: #e8ecf3;
 
-    --surface-color: #99999b;
+    --surface-color: #e0d6ee;
 
     --lobster-font: 'Lobster', sans-serif;
     --sans-font: 'DM Sans', sans-serif;
@@ -43,9 +43,10 @@ html{
 
 /*text style*/
 h1{
-    color: var(--secondary-color-600);
-    font-size: 2rem;
+    color: var(--primary-color);
+        font-size: 1.5;
     text-transform: uppercase;
+    padding-top: 1rem;
 }
 
 h2{
@@ -55,6 +56,7 @@ h2{
     letter-spacing: 0.06rem;
     font-size: 1.5rem;
     text-decoration: none;
+
 }
 
 p{
